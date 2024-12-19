@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE = 'nesrinesaid/tp3express'  
+        DOCKER_IMAGE = 'nesrinesiad/tp3express'  
     }
 
     stages {
